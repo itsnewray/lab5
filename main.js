@@ -1,4 +1,4 @@
-console.log("hello world")
+console.log("hello, world")
 ///// the dataset created in spreadsheet
 let dataset = [
     [6, 6, 50, 96],
